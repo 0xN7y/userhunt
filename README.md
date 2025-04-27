@@ -1,6 +1,6 @@
 # UserHunt
 
-Tool that searches for a given username across platforms and online services. It's an essential utility for OSINT investigations, brand monitoring, or simply checkingusername availability
+Tool that searches for a given username across different platforms and online services. It's an essential utility for OSINT investigations, or simply checking username availability
 
 
 
