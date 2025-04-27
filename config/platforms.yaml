@@ -1,0 +1,131 @@
+platforms:
+  - name: Facebook
+    url: https://www.facebook.com/{username}
+  - name: Twitter
+    url: https://twitter.com/{username}
+  - name: Instagram
+    url: https://www.instagram.com/{username}
+  - name: TikTok
+    url: https://www.tiktok.com/@{username}
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/{username}
+  - name: YouTube
+    url: https://www.youtube.com/{username}
+  - name: Reddit
+    url: https://www.reddit.com/user/{username}
+  - name: Pinterest
+    url: https://www.pinterest.com/{username}
+  - name: Snapchat
+    url: https://www.snapchat.com/add/{username}
+  - name: Tumblr
+    url: https://{username}.tumblr.com
+  - name: GitHub
+    url: https://github.com/{username}
+  - name: Medium
+    url: https://medium.com/@{username}
+  - name: DeviantArt
+    url: https://www.deviantart.com/{username}
+  - name: SoundCloud
+    url: https://soundcloud.com/{username}
+  - name: Vimeo
+    url: https://vimeo.com/{username}
+  - name: Twitch
+    url: https://www.twitch.tv/{username}
+  - name: Dribbble
+    url: https://dribbble.com/{username}
+  - name: Behance
+    url: https://www.behance.net/{username}
+  - name: Flickr
+    url: https://www.flickr.com/people/{username}
+  - name: 500px
+    url: https://500px.com/{username}
+  - name: VK
+    url: https://vk.com/{username}
+  - name: OK.ru
+    url: https://ok.ru/{username}
+  - name: Weibo
+    url: https://weibo.com/{username}
+  - name: Xing
+    url: https://www.xing.com/profile/{username}
+  - name: Myspace
+    url: https://myspace.com/{username}
+  - name: Mix
+    url: https://mix.com/{username}
+  - name: Quora
+    url: https://www.quora.com/profile/{username}
+  - name: Stack Overflow
+    url: https://stackoverflow.com/users/{username}
+  - name: Stack Exchange
+    url: https://stackexchange.com/users/{username}
+  - name: Ask.fm
+    url: https://ask.fm/{username}
+  - name: Foursquare
+    url: https://foursquare.com/{username}
+  - name: Yelp
+    url: https://www.yelp.com/user_details?userid={username}
+  - name: TripAdvisor
+    url: https://www.tripadvisor.com/members/{username}
+  - name: Goodreads
+    url: https://www.goodreads.com/{username}
+  - name: Letterboxd
+    url: https://letterboxd.com/{username}
+  - name: Bandcamp
+    url: https://bandcamp.com/{username}
+  - name: ReverbNation
+    url: https://www.reverbnation.com/{username}
+  - name: Mixcloud
+    url: https://www.mixcloud.com/{username}
+  - name: Dailymotion
+    url: https://www.dailymotion.com/{username}
+  - name: Bitbucket
+    url: https://bitbucket.org/{username}
+  - name: GitLab
+    url: https://gitlab.com/{username}
+  - name: CodePen
+    url: https://codepen.io/{username}
+  - name: JSFiddle
+    url: https://jsfiddle.net/user/{username}
+  - name: HackerRank
+    url: https://www.hackerrank.com/{username}
+  - name: LeetCode
+    url: https://leetcode.com/{username}
+  - name: Codeforces
+    url: https://codeforces.com/profile/{username}
+  - name: CodeChef
+    url: https://www.codechef.com/users/{username}
+  - name: Kaggle
+    url: https://www.kaggle.com/{username}
+  - name: Dev.to
+    url: https://dev.to/{username}
+  - name: Hashnode
+    url: https://hashnode.com/@{username}
+  - name: Product Hunt
+    url: https://www.producthunt.com/@{username}
+  - name: Indie Hackers
+    url: https://www.indiehackers.com/{username}
+  - name: AngelList
+    url: https://angel.co/u/{username}
+  - name: Behance
+    url: https://www.behance.net/{username}
+  - name: Dribbble
+    url: https://dribbble.com/{username}
+  - name: ArtStation
+    url: https://www.artstation.com/{username}
+  - name: 500px
+    url: https://500px.com/{username}
+  - name: Unsplash
+    url: https://unsplash.com/@{username}
+  - name: Pixabay
+    url: https://pixabay.com/users/{username}
+  - name: Giphy
+    url: https://giphy.com/{username}
+  - name: Tenor
+    url: https://tenor.com/users/{username}
+  - name: Imgur
+    url: https://imgur.com/user/{username}
+  - name: Reddit
+    url: https://www.reddit.com/user/{username}
+  - name: 9GAG
+    url: https://9gag.com/u/{username}
+  - name: Tinder
+    url: https://www.tinder.com/@{username}
